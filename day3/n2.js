@@ -1,4 +1,5 @@
 // My Library (n2.js)
 
 
-exports.sum = (no1,no2) => no1 + no2;
+exports.multiply = (a, b) => a * b;
+exports.square = (x) => x * x;
